@@ -32,18 +32,20 @@ GitHub
 HTML5
 CSS3
 JavaScript
+
 V. ALCANCE
 
 Registro e inicio de sesión.
-Gestión de patrones.
-Compra de patrones digitales.
-Descarga automática después del pago.
-Administración de productos.
-Administración de usuarios.
-Historial de compras.
+1. Gestión de patrones.
+2. Compra de patrones digitales mediante transferencias o depósitos bancarios.
+3. Descarga después de validar el pago.
+4. Administración de productos.
+5. Administración de usuarios.
+6. Historial de compras.
+
 VI. FUERA DEL ALCANCE
 
-Aplicación móvil.
-Venta de productos físicos.
-Integración con múltiples idiomas.
-Chat en tiempo real.
+1. La integración con una pasarela de pagos (como Mercado Pago o PayPal) se considera una mejora para una versión futura del sistema.
+2. Venta de productos físicos.
+3. Integración con múltiples idiomas.
+4. Chat en tiempo real.
