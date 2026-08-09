@@ -1,13 +1,13 @@
-# CU-05 | Editar datos personales
+# CU-06 | Editar datos personales
 
 | Campo | Descripción | 
 |--------|-------------|
-| Código | CU-05 |
+| Código | CU-06 |
 | Nombre | Editar datos personales |
 | Objetivo | Permitir al cliente actualizar la información de su perfil para mantener sus datos personales actualizados |
 | Actor principal | Cliente |
 | Actores secundarios | Sistema |
-| Requerimiento relacionado | RF-CLI-05 |
+| Requerimiento relacionado | RF-CLI-06 |
 | Prioridad | Alta |
 | Frecuencia | Ocasional |
 
